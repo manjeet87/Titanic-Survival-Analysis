@@ -1,0 +1,2 @@
+# Titanic-Survival-Analysis
+In this project, an analysis is performed on a Titanic passenger database in order to infer if any pattern is there in the number of deaths of people based upon their Age, Sex, Class or ticket-fare etc. Survival rate is calculated and analysed in each of these categories. The analysis is done in a Python script. A Jupyter notebook is also uploaded explaining each steps in the code.
